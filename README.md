@@ -14,9 +14,7 @@ TripGenius uses AI to create personalized travel itineraries with real-time weat
 
 ### Frontend
 - HTML, CSS, JavaScript  
-- React.js  
 - TailwindCSS / Bootstrap  
-- Axios  
 
 ### Backend
 - Node.js  

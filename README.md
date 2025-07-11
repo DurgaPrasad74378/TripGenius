@@ -1,9 +1,9 @@
-# Ai-Trip-Planner
-AI Trip Planner uses AI to create personalized travel itineraries with real-time weather, flight &amp; hotel search, budget tracking, and group collaboration. Built with React, Node.js, and MongoDB for a seamless, smart, and interactive travel planning experience.
+# TripGenius
+TripGenius uses AI to create personalized travel itineraries with real-time weather, flight &amp; hotel search, budget tracking, and group collaboration. Built with React, Node.js, and MongoDB for a seamless, smart, and interactive travel planning experience.
 
 
 
-# 🧠 AI Trip Planner
+# 🧠 TripGenius
 
 > **Plan Smarter. Travel Better.**  
 > An AI-powered travel planning platform that generates personalized itineraries, manages bookings, tracks budgets, and enables group collaboration — all in one seamless experience.
@@ -64,7 +64,7 @@ AI Trip Planner uses AI to create personalized travel itineraries with real-time
 
 ## 🌟 Unique Features Missing in Other Platforms
 
-| Feature                          | AI Trip Planner | Other Platforms (MakeMyTrip, Yatra, Booking, etc.) |
+| Feature                          | TripGenius | Other Platforms (MakeMyTrip, Yatra, Booking, etc.) |
 |---------------------------------|-----------------|----------------------------------------------------|
 | AI-Generated Personalized Itineraries | ✅           | ❌                                                  |
 | AI Chatbot Travel Assistant      | ✅               | ❌                                                  |

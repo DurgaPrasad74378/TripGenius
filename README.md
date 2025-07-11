@@ -106,30 +106,49 @@ TripGenius uses AI to create personalized travel itineraries with real-time weat
 ## 📁 Project File Structure
 
 ```
-ai-trip-planner/
+TripGeniue/
+├── client/                           # Frontend
+│   ├── assets/                       # Images, icons, fonts
+│   ├── css/                          # Custom styles (Tailwind, Bootstrap overrides)
+│   │   ├── tailwind.css
+│   │   └── styles.css
+│   ├── js/                           # Vanilla JS modules or enhancements
+│   │   └── main.js
+│   ├── components/                   # Reusable HTML components
+│   ├── pages/                        # Individual pages
+│   │   ├── index.html
+│   │   ├── planner.html
+│   │   ├── login.html
+│   │   └── dashboard.html
+│   └── partials/                     # Shared HTML snippets (header, footer)
 │
-├── client/                     # React frontend
-│   ├── public/
-│   └── src/
-│       ├── components/         # UI components (MapView, AIChatBot, BudgetTracker)
-│       ├── pages/              # Pages (Planner, Dashboard, TripShare, Marketplace)
-│       ├── services/           # API calls with Axios
-│       ├── utils/              # Utils like exportToPDF.js
-│       ├── App.js
-│       └── index.js
+├── server/                           # Backend
+│   ├── controllers/                  # Route handlers / logic
+│   │   ├── authController.js
+│   │   ├── tripController.js
+│   │   └── aiController.js
+│   ├── models/                       # Mongoose models
+│   │   ├── User.js
+│   │   ├── Trip.js
+│   │   └── Template.js
+│   ├── routes/                       # Express route files
+│   │   ├── authRoutes.js
+│   │   ├── tripRoutes.js
+│   │   └── aiRoutes.js
+│   ├── middlewares/                 # Auth, error handling, validators
+│   ├── utils/                        # Helper functions (e.g., currency.js, weather.js)
+│   ├── config/                       # DB & environment config
+│   ├── app.js                        # Main Express app
+│   └── .env                          # Environment variables
 │
-├── server/                     # Node.js backend
-│   ├── controllers/            # Route logic (aiController, tripController, chatController)
-│   ├── models/                 # MongoDB schemas (User, Trip, TripTemplate)
-│   ├── routes/                 # API route definitions
-│   ├── utils/                  # Helpers (weather.js, currency.js, visaChecker.js)
-│   ├── config/                 # Environment configs
-│   ├── app.js                  # Server entry point
-│   └── .env                   # Environment variables
+├── public/                           # Static assets served to frontend
+│   └── uploads/                      # Profile pics, documents, etc.
 │
-├── README.md                   # This file
+├── README.md
 ├── package.json
-└── .gitignore
+├── .gitignore
+└── tailwind.config.js
+
 ```
 
 ---

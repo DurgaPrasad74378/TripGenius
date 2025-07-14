@@ -1,7 +1,7 @@
 
-# 🌍 AI Trip Planner — Project Description
+# 🌍TripGenius— Project Description
 
-**AI Trip Planner** is a modern, intelligent travel planning web application designed to simplify and enhance how users create, manage, and share their travel itineraries.
+**TripGenius** is a modern, intelligent travel planning web application designed to simplify and enhance how users create, manage, and share their travel itineraries.
 
 Leveraging advanced **artificial intelligence**, the platform generates personalized trip plans tailored to user preferences — including interests, budgets, and travel dates.
 
@@ -11,7 +11,7 @@ Additional integrations like **real-time weather updates (OpenWeatherMap)**, **i
 
 ---
 
-## 💡 What Makes AI Trip Planner Unique?
+## 💡 What MakesTripGenius Unique?
 
 - 🧠 **AI-Powered Itinerary Generator**  
 - 📅 **Interactive Drag-and-Drop Trip Calendar**  
@@ -42,7 +42,7 @@ Additional integrations like **real-time weather updates (OpenWeatherMap)**, **i
 
 ---
 
-## 📌 Why AI Trip Planner Matters
+## 📌 Why TripGenius Matters
 
 While most travel platforms focus on booking and reviews, **AI Trip Planner fills a critical gap** — providing truly **intelligent, collaborative, and customizable** travel planning.
 
@@ -52,7 +52,7 @@ It empowers users not just to book trips, but to **design unforgettable journeys
 
 # 🎙 Elevator Pitch (60–90 seconds)
 
-> AI Trip Planner is an innovative web app that uses artificial intelligence to simplify travel planning. Unlike traditional platforms focused only on bookings, this tool creates fully personalized itineraries based on user input, real-time data, and AI suggestions.
+>TripGenius is an innovative web app that uses artificial intelligence to simplify travel planning. Unlike traditional platforms focused only on bookings, this tool creates fully personalized itineraries based on user input, real-time data, and AI suggestions.
 
 > It supports group trip collaboration, mood-based planning, budgeting with currency conversion, visa checks, and even offline PDF export. Users can also explore or sell curated trip templates in a built-in marketplace.
 
